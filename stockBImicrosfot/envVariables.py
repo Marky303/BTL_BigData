@@ -1,4 +1,4 @@
-polygonKey = 'xIMJqWIwGBeoFb5KL8OQEp2EGGYqCIjm'
+polygonKey = 'yourpolygonapihere'
 host = 'localhost'
 user = 'root'
-password = 'nhienhuu94'
+password = 'youpasshere'
